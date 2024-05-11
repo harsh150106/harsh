@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harsh150106
+- 👋 Hi, I’m HARSH
 - 👀 I’m interested in ...learning of new computer languages 
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... 
